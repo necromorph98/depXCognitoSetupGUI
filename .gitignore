@@ -1,0 +1,5 @@
+ec2_key/*
+__pycache__
+test*.py
+user_data/*
+*.csv
